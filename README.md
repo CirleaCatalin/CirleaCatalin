@@ -36,7 +36,6 @@ A real-time horse racing simulation built with **Vue 3, TypeScript (strict), Pin
 - Sprite-sheet animation driven purely by CSS `steps()`, so no JavaScript runs per frame, even with many horses on screen
 - Atomic component architecture (atoms → molecules → organisms) on top of a small design-token system
 - Unit tests with Vitest, E2E tests with Playwright across Chromium, Firefox and WebKit, CI on GitHub Actions
-- Developed with Claude Code, guided by a project `CLAUDE.md` that encodes the architecture and conventions
 
 ### Certifications
 
