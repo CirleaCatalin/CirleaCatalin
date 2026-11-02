@@ -16,12 +16,6 @@
 ### About me
 
 I design in Figma and build in code, so the details that make a product feel polished don't get lost in the handoff.
-
-- 🔭 Senior Software Engineer at **Betfair Romania Development**, building high-traffic web platforms for Flutter Entertainment brands: Betfair, PokerStars and Sky Bet
-- 🧩 Built a modular Vue design system (components, composables, directives) that lets **4 brands share one codebase** with flexible theming
-- ⚡ Led the **Vue 2 → Vue 3 / Composition API** migration and the **Webpack → Vite** move: faster builds, smaller bundles, better runtime performance
-- 📦 Built and published an npm library that standardizes Google Analytics event tracking across projects
-- 🤖 Work spec-first with **Claude Code**, and review and test every AI-generated change like any pull request
 - 💬 Ask me about design systems, legacy frontend modernization, or smooth micro-interactions
 
 ### Tech stack
